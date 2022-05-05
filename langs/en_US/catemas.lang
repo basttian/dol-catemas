@@ -1,0 +1,73 @@
+# Copyright (C) 2021 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see .
+
+#
+# Generic
+CatemasArea=Data area.
+DelPorcentageForCategorie=Delete percentage of selected category
+ConfirmDelCategoriePorcentage=Are you sure you want to delete this record? 
+msjdeletenoauth=Unauthorized user.
+morehtml = Rec.
+NoHayRegistros = None.
+#
+
+# Module label 'ModuleCatemasName'
+ModuleCatemasName = Catemas Price
+# Module description 'ModuleCatemasDesc'
+ModuleCatemasDesc = Update prices (ttc and min ttc) by category group.
+ButtonTextAdd = Update prices
+heptxtcategorie = Select one or more categories
+txtcategories = Categories
+txtpercentage=Percentage
+tableCaption=Product category +/- interest. 
+tblColHeadCat=Categorias
+tblColHeadDate=Creation Date
+tblColHeadOp=Op
+msgCategorie=Categorie
+msjPercentage=Category percentage 
+msjUpdatePrices=The price update was successful. 
+msjErrorUpdateData=Data update error. 
+msjErrorLoadData=Data loading error.
+msjNoDataProduct=Nothing to update.
+menuleft = Update price
+#
+# Admin page
+#
+CatemasSetup = Catemas setup
+Settings = Settings
+CatemasSetupPage = Catemas setup page
+CATEMAS_MYPARAM1 = My param 1
+CATEMAS_MYPARAM1Tooltip = My param 1 tooltip
+CATEMAS_MYPARAM2=My param 2
+CATEMAS_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+CatemasAbout = About Catemas
+CatemasAboutPage = Catemas about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description

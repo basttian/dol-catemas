@@ -1,0 +1,73 @@
+# Copyright (C) 2021 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+CatemasArea=Nueva actualizacion de precios.
+DelPorcentageForCategorie=Eliminar porcentaje seleccionado.
+ConfirmDelCategoriePorcentage=Atencion!! Esta accion no tiene retorno..<br><b>No afecta los precios de los productos que pertenecen a la categoria. Solo se elimina el registro.</b>
+msjdeletenoauth=Usuario no autorizado.
+morehtml = Reg.
+NoHayRegistros = No hay registros para mostrar.
+#
+
+# Module label 'ModuleCatemasName'
+ModuleCatemasName = Catemas
+# Module description 'ModuleCatemasDesc'
+ModuleCatemasDesc = Actualizar precios de productos categorizados.
+ButtonTextAdd = Actualizar precios por categorias seleccionadas
+heptxtcategorie = Seleccionar una o mas categorias.
+txtcategories = Seleccionar una mas categorias
+txtpercentage= Porcentaje a actualizar
+tableCaption= Producto categoria +/- interes. 
+tblColHeadCat=Categorias
+tblColHeadDate=Fecha de creacion
+tblColHeadOp=Op
+msgCategorie=Categoria
+msjPercentage=Porcentaje de categoria
+msjUpdatePrices=El/los precios fueron actualizados. 
+msjErrorUpdateData=Error en la actualizacion de precios. 
+msjErrorLoadData=Error en carga de datos.
+msjNoDataProduct=Nada que actualizar..
+menuleft=Actualizar Precios
+#
+# Admin page
+#
+CatemasSetup = Configuracion del modulo.
+Settings = Configuracion
+CatemasSetupPage = Configuracion
+CATEMAS_MYPARAM1 = My param 1
+CATEMAS_MYPARAM1Tooltip = My param 1 tooltip
+CATEMAS_MYPARAM2=My param 2
+CATEMAS_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = Acerca de.
+CatemasAbout = Acerca de nosotros.
+CatemasAboutPage = Acerca de nosotros.
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
