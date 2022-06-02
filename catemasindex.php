@@ -145,7 +145,7 @@ if ($action == 'changeprice') {
                     }
                     
                     $query="
-                    UPDATE llx_product, (
+                    UPDATE ".MAIN_DB_PREFIX."product, (
                     SELECT 
                     rowid AS id, 
                     price AS prmax, 
